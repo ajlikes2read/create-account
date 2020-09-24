@@ -1,5 +1,5 @@
 # create-account-webpage
-Create account form \n
+Create account form 
 
 In this project, I have written 2 files, one form.html file and another style.css file. 
 Both the files are linked together. 
